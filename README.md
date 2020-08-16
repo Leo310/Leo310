@@ -1,4 +1,4 @@
-### Hi there, I'm Leo - aka [Leo310] 👋
+### Hi there, I'm Leo 👋
 
 - 🔭 I’m currently working on a Botnet app!
 - 🌱 I’m currently learning OpenGL for my Botmasterinterface (Botnet Repo)
