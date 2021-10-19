@@ -1,8 +1,6 @@
 ### Hi there, I'm Leo 👋
 
-- 🔭 I’m currently working on a Botnet app!
-- 🌱 I’m currently learning OpenGL for my Botmasterinterface (Botnet Repo)
-      and I’m building myself a server atm
+- 🔭 Todo
       
 <!--- - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
