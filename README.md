@@ -19,6 +19,7 @@
 
 [<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][default]
 [<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />][default]
+[<img align="left" alt="Go" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />][default]
 [<img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png" />](https://visualstudio.microsoft.com/de/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][default]
