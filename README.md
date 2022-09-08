@@ -1,5 +1,7 @@
 ### Hiii boys and girls, I am Leo 👋
-             |  
+<br/>
+
+Interesting Metrics                   |  Cool Skyline
 :-------------------------:|:-------------------------:
 ![Metrics](/github-metrics.svg)  |  ![Metrics](/metrics.plugin.skyline.svg)
  
