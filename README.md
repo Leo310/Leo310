@@ -1,6 +1,5 @@
 ### Hiii boys and girls, I am Leo 👋
-![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.skyline.svg)
+![Metrics](/github-metrics.svg) ![Metrics](/metrics.plugin.skyline.svg)
 <!--- - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums --->
