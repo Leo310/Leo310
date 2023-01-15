@@ -1,6 +1,8 @@
-### Hiii boys and girls, I am Leo 👋
+### Hiii boys and girls, I am Leo ✌,
+I love open-source work and everything related to new technologies 🚀🌝.  
+Currently working on my personal Website [lhs.world](https://github.com/Leo310/lhs.world). Check it out, will be crazy.
 <br/>
-
+<br/>
 Interesting Metrics                   |  Cool Skyline
 :-------------------------:|:-------------------------:
 ![Metrics](/github-metrics.svg)  |  ![Metrics](/metrics.plugin.skyline.svg)
