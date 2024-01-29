@@ -1,11 +1,6 @@
-### Hiii boys and girls, I am Leo ✌
-I love open-source work and everything related to new technologies 🚀🌝.  
-Currently working on my personal Website [lhs.world](https://github.com/Leo310/lhs.world). Check it out, will be crazy.
-<br/>
-<br/>
-Interesting Metrics                   |  Cool Skyline
-:-------------------------:|:-------------------------:
-![Metrics](/github-metrics.svg)  |  ![Metrics](/metrics.plugin.skyline.svg)
+### YO boys and girls, I am Leo
+Love open-source work and everything related to new technologies.  
+Currently working on our soon-released [Smart Second Brain](https://github.com/nicobrauchtgit/obsidian-Smart2Brain)
  
 <!--- - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
