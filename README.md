@@ -1,6 +1,6 @@
 ### YO boys and girls, I am Leo
 Love open-source work and everything related to new technologies.  
-Currently working on our soon-released [Smart Second Brain](https://github.com/nicobrauchtgit/obsidian-Smart2Brain)
+Currently working on our soon-released [Smart Second Brain](https://github.com/your-papa/obsidian-Smart2Brain)
  
 <!--- - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
